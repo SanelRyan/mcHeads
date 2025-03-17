@@ -1,6 +1,6 @@
 # Minecraft Head Generator
 
-A PHP-based API that generates Minecraft player head images from usernames or UUIDs. This tool fetches player skin data from Mojang's API and creates a 2D or 3D head image.
+A PHP-based API that generates Minecraft player head images from usernames or UUIDs. This tool fetches player skin data from Mojang's API and creates a 2D head image.
 
 ## Features
 
